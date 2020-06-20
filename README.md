@@ -1,6 +1,6 @@
 # Detector de gases inflamáveis
 
-![](https://img.shields.io/github/issues/nbezequiel/flamable-mqtt-broker?style=plastic) ![](https://img.shields.io/github/package-json/v/nbezequiel/flamable-mqtt-broker) ![](https://img.shields.io/github/v/release/nbezequiel/flamable-mqtt-broker)
+![](https://img.shields.io/github/issues/nbezequiel/flamable-mqtt-broker?style=plastic)
 
 ** Colaboradores: **
 
