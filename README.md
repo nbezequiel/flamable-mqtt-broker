@@ -3,9 +3,8 @@
 ![](https://img.shields.io/github/issues/nbezequiel/flamable-mqtt-broker?style=plastic)
 
 * Colaboradores:
-
-- Ezequiel Barbosa Neves
-- Wallace Félix da Silva
+	+  Ezequiel Barbosa Neves
+	+ Wallace Félix da Silva
   </br>
 
 #### Descrição
