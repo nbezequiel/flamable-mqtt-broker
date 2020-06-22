@@ -14,9 +14,9 @@
   
 #### Funcionamento do Broker
 * O servidor MQTT implementado utilizando o pacote mosca para npm, é iniciado e passa a escutar, na porta 1883, publicações subscrições nos tópicos de alarm e log. 
-	* Um serviço de de comunicação com o SNS(Serviço de Notificação da AWS), se subscreve e recebe as mensagens de alarme do broker. 
-	* A cada mensagem recebida no tópico de alarme o o serviço de comunicação requisita ao SNS o envio de uma mensagem do tipo SMS para um número pré-cadastrado ou informado em um tópico AWS.
-	* Erros ou mensagens de sucesso na integração com o SNS são publicados no tópico de log e ficam disponíveis aos gerentes da solução.
+* Um serviço de de comunicação com o SNS(Serviço de Notificação da AWS), se subscreve e recebe as mensagens de alarme do broker. 
+* A cada mensagem recebida no tópico de alarme o o serviço de comunicação requisita ao SNS o envio de uma mensagem do tipo SMS para um número pré-cadastrado ou informado em um tópico AWS.
+* Erros ou mensagens de sucesso na integração com o SNS são publicados no tópico de log e ficam disponíveis aos gerentes da solução.
 
 </br>
 #### Tópicos
@@ -35,6 +35,7 @@
 `$ nohup node broker.js`
 
 `$ node snsComunicator.js`
+</br>
 
 #### Dependências de desenvolvimento
 
