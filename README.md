@@ -20,6 +20,7 @@
 * Erros ou mensagens de sucesso na integração com o SNS são publicados no tópico de log e ficam disponíveis aos gerentes da solução.
 
 </br>
+
 #### Tópicos
 
 | Tópico            | Descrição                                        |
