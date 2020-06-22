@@ -31,3 +31,5 @@
 
 #### Dependências de desenvolvimento
 
+* AWS SNS SDK -> [documentação](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/SNS.html)
+* NPM Mosca -> [documentação](https://www.npmjs.com/package/mosca) 
